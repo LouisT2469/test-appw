@@ -21,7 +21,7 @@
     }
 </script>
 
-<div class="p-10 card bg-base-200 w-80 object-center">
+<div class="p-10 card bg-base-200 w-80 object-center mt-10">
 
     {#if status}
         
